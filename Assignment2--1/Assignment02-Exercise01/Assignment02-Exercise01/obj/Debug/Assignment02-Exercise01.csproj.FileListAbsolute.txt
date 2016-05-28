@@ -1,0 +1,9 @@
+F:\Programming projects\DVP3\Assignment2--1\Assignment02-Exercise01\Assignment02-Exercise01\bin\Debug\Assignment02-Exercise01.exe.config
+F:\Programming projects\DVP3\Assignment2--1\Assignment02-Exercise01\Assignment02-Exercise01\bin\Debug\Assignment02-Exercise01.exe
+F:\Programming projects\DVP3\Assignment2--1\Assignment02-Exercise01\Assignment02-Exercise01\bin\Debug\Assignment02-Exercise01.pdb
+F:\Programming projects\DVP3\Assignment2--1\Assignment02-Exercise01\Assignment02-Exercise01\obj\Debug\Assignment02-Exercise01.csprojResolveAssemblyReference.cache
+F:\Programming projects\DVP3\Assignment2--1\Assignment02-Exercise01\Assignment02-Exercise01\obj\Debug\Assignment02_Exercise01.Form1.resources
+F:\Programming projects\DVP3\Assignment2--1\Assignment02-Exercise01\Assignment02-Exercise01\obj\Debug\Assignment02_Exercise01.Properties.Resources.resources
+F:\Programming projects\DVP3\Assignment2--1\Assignment02-Exercise01\Assignment02-Exercise01\obj\Debug\Assignment02-Exercise01.csproj.GenerateResource.Cache
+F:\Programming projects\DVP3\Assignment2--1\Assignment02-Exercise01\Assignment02-Exercise01\obj\Debug\Assignment02-Exercise01.exe
+F:\Programming projects\DVP3\Assignment2--1\Assignment02-Exercise01\Assignment02-Exercise01\obj\Debug\Assignment02-Exercise01.pdb
